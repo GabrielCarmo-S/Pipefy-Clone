@@ -33,6 +33,13 @@ export default function Card({ data, index }) {
       if(draggedIndex < targetIndex && draggedTop < targetCenter){
         return;
       }
+
+      if(draggedIndex > targetIndex && draggedTop > targetCenter){
+        return;
+      }
+
+      
+
     }
   });
 
