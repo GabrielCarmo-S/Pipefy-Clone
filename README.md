@@ -13,9 +13,11 @@
 ## :bookmark: Sobre
 
 Clone da interface do Pipefy.
+<a href="https://pipefy-clone-gabrielcarmo-s.netlify.app" align="center">Para testar o clone.</a>
 
 <div align="center">
   <img alt="design do projeto" height="425" src="./github/m1.gif" />
+  <img alt="design do projeto" height="425" src="./github/m2.gif" />
 </div>
 
   
