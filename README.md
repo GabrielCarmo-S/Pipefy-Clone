@@ -1,7 +1,7 @@
 
 <h1 align="center">
     <br>Pipefy Clone<br/>
-    Node.js | ReactJS
+          ReactJS
 </h1>
 
 <p align="center">
