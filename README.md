@@ -22,7 +22,6 @@ Clone da interface do Pipefy.
 
   
 ## :rocket: Tecnologias
--  [Node.js](https://nodejs.org/en/)
 -  [ReactJS](https://reactjs.org/)
 
 ## :boom: Como Executar
